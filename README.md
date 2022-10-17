@@ -3,4 +3,9 @@
 - :+1: Meu email de contato é ***nathan.santos.souza@escola.pr.gov.br***
 - 👀 *Eu estou interessado em aprender a progamar novas linguagens*
 - 🌱 *Eu estou aprendendo a programar recentemente as linguagens do JavaScript e Scratch*
-
+- :grinning: *Eu escuto Dj Arana e Mc Paiva*
+- :clown_face: *Sou engraçado* 
+- :blue_heart: *Coração gelado*
+- :cookie: *Sou estundante do primeiro 1 ano*
+- :family_woman_woman_boy: *Amo minha familia*
+- :weight_lifting_man: *Sou atleta*
